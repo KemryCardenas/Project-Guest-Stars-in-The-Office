@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# link of the dataset ; https://www.kaggle.com/datasets/nehaprabhavalkar/the-office-dataset
 import matplotlib.pyplot as plt ;import numpy as np ; import pandas as pd
 data=pd.read_csv("datasets/office_episodes.csv")
 data.head()
